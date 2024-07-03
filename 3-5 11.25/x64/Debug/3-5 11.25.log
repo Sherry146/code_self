@@ -1,0 +1,11 @@
+﻿  题5.cpp
+D:\code\3-5 11.25\题5.cpp(14,15): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\code\3-5 11.25\题5.cpp(47,20): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+D:\code\3-5 11.25\题5.cpp(51,24): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+D:\code\3-5 11.25\题5.cpp(59,20): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+D:\code\3-5 11.25\题5.cpp(63,24): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+D:\code\3-5 11.25\题5.cpp(71,20): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+D:\code\3-5 11.25\题5.cpp(75,24): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+D:\code\3-5 11.25\题5.cpp(83,20): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+D:\code\3-5 11.25\题5.cpp(87,24): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+  3-5 11.25.vcxproj -> D:\code\3-5 11.25\x64\Debug\3-5 11.25.exe
