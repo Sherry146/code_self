@@ -1,0 +1,3 @@
+﻿  题5.c
+D:\code\4-5\题5.c(14,7): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  4-5.vcxproj -> D:\code\4-5\x64\Debug\4-5.exe
