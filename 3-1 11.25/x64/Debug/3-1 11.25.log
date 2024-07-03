@@ -1,0 +1,6 @@
+﻿  题1.cpp
+D:\code\3-1 11.25\题1.cpp(14,15): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\code\3-1 11.25\题1.cpp(14,30): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\code\3-1 11.25\题1.cpp(13,18): warning C4101: “j”: 未引用的局部变量
+D:\code\3-1 11.25\题1.cpp(26): warning C4715: “scmp”: 不是所有的控件路径都返回值
+  3-1 11.25.vcxproj -> D:\code\3-1 11.25\x64\Debug\3-1 11.25.exe
